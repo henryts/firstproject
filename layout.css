@@ -313,6 +313,20 @@ input::placeholder{
     color:#344c55;
     font-size: 8px;
 }
-a:hover {
-    text-decoration: underline;
+a {
+    text-decoration:none;
   }
+a:hover{
+    text-decoration:underline;
+    color:rgb(152, 152, 152) ;
+}
+.f-2-input{
+    width: 90px;
+    outline: none;
+    border-width: 0.5px;
+}
+input::placeholder{
+    text-align: left;
+    margin-top: -2px;
+    color: rgb(152, 152, 152);
+}

@@ -1,28 +1,5 @@
-.big-slider-box{
-    background-color: aqua;
-    height: 175px;
-    width: 400px;
-   display: flex;
-   flex-direction: row;
-    justify-content:baseline;
-    margin-top:40px ;
-    margin-left: 10px;
-    position: relative;
-    }
-    .slider-image1
-{
-height: 160px;
-width: 300px;
-
-}
 
 
-.wall-image{
-    height: 200px;
-    width: 400px;
-    object-fit:contain;
-    object-position: top;
-}
 .delivery-box
 {
     background-color: rgba(231, 87, 3, 0.898);
